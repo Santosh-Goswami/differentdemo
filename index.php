@@ -215,7 +215,7 @@
 </nav>
 
 <div class="jumbotron text-center">
-  <h1>Santosh Goswami</h1> 
+  <h1>SMNOJ</h1> 
   <p>We specialize in blablabla</p> 
   <form>
     <div class="input-group">
